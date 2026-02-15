@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ecoin Monitoring",
+  "description": "Minimalist ESP32 hardware monitoring system for infrared detection.",
+  "requestFramePermissions": []
+}
